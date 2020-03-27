@@ -1,17 +1,17 @@
 [
   {"CUSTOMER": "NUM1",
-  "OPAAS": ["DAL09", "MON01", "FRA02", "DAL13", "WDC04", "COL01", "PAR01", "WDC04", "SNG01", "LON02", "TOR01", "SAO01", "HKG02"],
-  "CHEF": ["FRA02", "SNG01"]},
+  "OPAAS": ["EX01", "EX02", "EX03", "EX04", "EX05", "EX06", "EX07", "EX05", "EX08", "EX09", "EX10", "EX11", "EX12"],
+  "CHEF": ["EX03", "EX08"]},
   {"CUSTOMER": "NUM2",
-  "OPAAS": ["DAL09", "MON01", "FRA02", "DAL13", "WDC04", "COL01", "PAR01", "WDC04", "SNG01", "LON02", "TOR01", "SAO01", "HKG02"],
-  "CHEF": ["DAL13", "SNG01"]},
+  "OPAAS": ["EX01", "EX02", "EX03", "EX04", "EX05", "EX06", "EX07", "EX05", "EX08", "EX09", "EX10", "EX11", "EX12"],
+  "CHEF": ["EX04", "EX08"]},
   {"CUSTOMER": "NUM3",
-  "OPAAS": ["DAL09", "MON01", "FRA02", "DAL13", "WDC04", "COL01", "PAR01", "WDC04", "SNG01", "LON02", "TOR01", "SAO01", "HKG02"],
-  "CHEF": ["DAL13", "SNG01"]},
+  "OPAAS": ["EX01", "EX02", "EX03", "EX04", "EX05", "EX06", "EX07", "EX05", "EX08", "EX09", "EX10", "EX11", "EX12"],
+  "CHEF": ["EX04", "EX08"]},
   {"CUSTOMER": "NUM4",
-  "OPAAS": ["DAL09", "MON01", "DAL13", "WDC04", "COL01", "PAR01", "WDC04", "SNG01", "LON02", "TOR01", "SAO01", "HKG02", "FRA02"],
-  "CHEF": ["CHE01", "DAL13", "FRA02", "HKG02", "MON01", "SAO01", "SNG01", "SYD04", "TOK02", "WDC04"]},
+  "OPAAS": ["EX01", "EX02", "EX04", "EX05", "EX06", "EX07", "EX05", "EX08", "EX09", "EX10", "EX11", "EX12", "EX03"],
+  "CHEF": ["EX01", "EX04", "EX03", "EX12", "EX02", "EX11", "EX08", "EX05"]},
   {"CUSTOMER": "NUM5",
-  "OPAAS": ["DAL09", "MON01", "FRA02", "DAL13", "WDC04", "COL01", "PAR01", "WDC04", "SNG01", "LON02", "TOR01", "SAO01", "HKG02"],
-  "CHEF": ["FRA02", "PAR01"]}
+  "OPAAS": ["EX01", "EX02", "EX03", "EX04", "EX05", "EX06", "EX07", "EX05", "EX08", "EX09", "EX10", "EX11", "EX12"],
+  "CHEF": ["EX03", "EX07"]}
 ]
